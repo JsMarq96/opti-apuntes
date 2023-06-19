@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repaso/4- Gradient descnet & conjugate graident.md",
+                "file": "Repaso/Parcial/4- Gradient descnet & conjugate graident.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repaso/3 - minimizacion de variables diferenciables.md",
+                "file": "Repaso/Parcial/4- Gradient descnet & conjugate graident.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c89ccfaf1f0d4d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repaso/repaso_fin/4 - Descento de garidente y metodo de newton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbe91fa693e87f0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repaso/repaso_fin/5 - Funcioens quadratics descenso de gradiente y conjugado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "752cb3f0f8ae2fc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repaso/repaso_fin/5 - Funcioens quadratics descenso de gradiente y conjugado.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repaso/3 - minimizacion de variables diferenciables.md",
+                "file": "Repaso/repaso_fin/5 - Funcioens quadratics descenso de gradiente y conjugado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repaso/3 - minimizacion de variables diferenciables.md",
+                "file": "Repaso/repaso_fin/5 - Funcioens quadratics descenso de gradiente y conjugado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repaso/3 - minimizacion de variables diferenciables.md"
+                "file": "Repaso/repaso_fin/5 - Funcioens quadratics descenso de gradiente y conjugado.md"
               }
             }
           }
@@ -167,19 +203,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50da903139cb70e4",
+  "active": "752cb3f0f8ae2fc1",
   "lastOpenFiles": [
-    "Repaso/2 - Repaso de calculo diferencial.md",
-    "Repaso/REPASO MID.md",
-    "Repaso/4- Gradient descnet & conjugate graident.md",
-    "Repaso/3 - minimizacion de variables diferenciables.md",
-    "Repaso/1 - Algebra lineal numerico.md",
+    "Repaso/repaso_fin/4 - Descento de garidente y metodo de newton.md",
+    "3 - Directo method for solving.md",
     "6 - Minimization of quadratic functions.md",
     "6 - Minimizacion of differetntiable functions.md",
+    "5 -.md",
+    "Repaso/repaso_fin/5 - Funcioens quadratics descenso de gradiente y conjugado.md",
+    "Repaso/Parcial",
+    "Repaso/Parcial/4- Gradient descnet & conjugate graident.md",
+    "Repaso/repaso_fin",
+    "Repaso/Parcial/REPASO MID.md",
+    "Repaso/Parcial/3 - minimizacion de variables diferenciables.md",
+    "Repaso/Parcial/2 - Repaso de calculo diferencial.md",
+    "Repaso/Parcial/1 - Algebra lineal numerico.md",
     "2 - Numerical Linear Alegra review.md",
     "1 - Introduction to optimization.md",
-    "5 -.md",
-    "3 - Directo method for solving.md",
     "Repaso",
     "Seminars/2 - Seminario.md",
     "Seminars/1 - Seminario.md",
