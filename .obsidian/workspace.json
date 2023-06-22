@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repaso/repaso_fin/7 - Dualitey based methods.md",
+                "file": "Repaso/repaso_fin/8 - Optimizacion estocastica.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repaso/repaso_fin/7 - Dualitey based methods.md",
+                "file": "Repaso/repaso_fin/8 - Optimizacion estocastica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repaso/repaso_fin/7 - Dualitey based methods.md",
+                "file": "Repaso/repaso_fin/8 - Optimizacion estocastica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repaso/repaso_fin/7 - Dualitey based methods.md"
+                "file": "Repaso/repaso_fin/8 - Optimizacion estocastica.md"
               }
             }
           }
@@ -181,8 +181,9 @@
   },
   "active": "752cb3f0f8ae2fc1",
   "lastOpenFiles": [
-    "Repaso/repaso_fin/6 - Convex optimization.md",
+    "Repaso/repaso_fin/8 - Optimizacion estocastica.md",
     "Repaso/repaso_fin/7 - Dualitey based methods.md",
+    "Repaso/repaso_fin/6 - Convex optimization.md",
     "Repaso/repaso_fin/4 - Descento de garidente y metodo de newton.md",
     "Repaso/repaso_fin/5 - Funcioens quadratics descenso de gradiente y conjugado.md",
     "Repaso/Parcial/4- Gradient descnet & conjugate graident.md",
