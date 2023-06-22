@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repaso/repaso_fin/8 - Optimizacion estocastica.md",
+                "file": "Vis3D/4 - Correspondencia con imangees, RANSAC.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repaso/repaso_fin/8 - Optimizacion estocastica.md",
+                "file": "Vis3D/4 - Correspondencia con imangees, RANSAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repaso/repaso_fin/8 - Optimizacion estocastica.md",
+                "file": "Vis3D/4 - Correspondencia con imangees, RANSAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repaso/repaso_fin/8 - Optimizacion estocastica.md"
+                "file": "Vis3D/4 - Correspondencia con imangees, RANSAC.md"
               }
             }
           }
@@ -182,6 +182,8 @@
   "active": "752cb3f0f8ae2fc1",
   "lastOpenFiles": [
     "Repaso/repaso_fin/8 - Optimizacion estocastica.md",
+    "Vis3D/4 - Correspondencia con imangees, RANSAC.md",
+    "Vis3D",
     "Repaso/repaso_fin/7 - Dualitey based methods.md",
     "Repaso/repaso_fin/6 - Convex optimization.md",
     "Repaso/repaso_fin/4 - Descento de garidente y metodo de newton.md",
