@@ -107,3 +107,13 @@ Cuando esta desigualdad se cumple, podemos parar (o con un delta muy chiquito)
 
 
 ## Terminar las aplicaciones
+
+
+# Proceso
+1) Calcular el laplaciano L como si fuese normal
+2) Establacemos g_D como una funcion de minimizacion x sobre el laplaciano
+3) Calculamos x^gorrito, que dara X para un lmabda en concreto, el argmin de L
+4) para calcular x gorrito, calculamos el gradiente de L, y lo igualamaos a 0, usando lambda como unica variable
+5) Eso nos dara una ecuacion para minimizar cualquier x, para cualquier lambda
+6) sustituimos x por x_gorrito en g_D
+7) Ahora entramos en maximizacion de g_D

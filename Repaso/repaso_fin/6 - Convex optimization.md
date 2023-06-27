@@ -64,9 +64,16 @@ y para garantizar la optimalidad de la condicion estan las Condiciones Karush-Ku
 2) Feasibilidad primal $c_i(x) \geq 0$
 3) Feasiblidad primal (igualdad) $d_i(x) = 0$
 4) Positividad dual $\lambda_i \geq 0$ por la orientacion de las constraint
-5) Complementary slackness ???
+5) Complementary slackness $\lambda_i c_i(x_0) = 0$
 
 Estas condicioens son necesarias!!!
 
 Para resolver el problema intenamos minimizar x, y maximar los multiplicadores de lagrange.
 Esto hace que la solucion sea un saddlepoint que x y los multiplicadores tiene que cumplir
+
+## Constraints
+- Que es un interior point?
+Es cuando un valor x esta dentro de la region de feasiblidad de una constraint
+- Cuando esta una constraint activa?
+Cuando tenemos solucion dentro de la region de feasibilidad de uns constraint decimos que la activa. una solucion solo puede ser optima si activa todas las constraints
+

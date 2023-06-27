@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vis3D/4 - Correspondencia con imangees, RANSAC.md",
+                "file": "Repaso/repaso_fin/7 - Dualitey based methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vis3D/4 - Correspondencia con imangees, RANSAC.md",
+                "file": "Repaso/repaso_fin/7 - Dualitey based methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vis3D/4 - Correspondencia con imangees, RANSAC.md",
+                "file": "Repaso/repaso_fin/7 - Dualitey based methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vis3D/4 - Correspondencia con imangees, RANSAC.md"
+                "file": "Repaso/repaso_fin/7 - Dualitey based methods.md"
               }
             }
           }
@@ -182,21 +182,21 @@
   "active": "752cb3f0f8ae2fc1",
   "lastOpenFiles": [
     "Repaso/repaso_fin/8 - Optimizacion estocastica.md",
-    "Vis3D/4 - Correspondencia con imangees, RANSAC.md",
-    "Vis3D",
-    "Repaso/repaso_fin/7 - Dualitey based methods.md",
     "Repaso/repaso_fin/6 - Convex optimization.md",
-    "Repaso/repaso_fin/4 - Descento de garidente y metodo de newton.md",
+    "Repaso/repaso_fin/7 - Dualitey based methods.md",
     "Repaso/repaso_fin/5 - Funcioens quadratics descenso de gradiente y conjugado.md",
+    "Repaso/repaso_fin/4 - Descento de garidente y metodo de newton.md",
+    "Repaso/Parcial/3 - minimizacion de variables diferenciables.md",
     "Repaso/Parcial/4- Gradient descnet & conjugate graident.md",
     "3 - Directo method for solving.md",
+    "5 -.md",
+    "Vis3D/4 - Correspondencia con imangees, RANSAC.md",
+    "Vis3D",
     "6 - Minimization of quadratic functions.md",
     "6 - Minimizacion of differetntiable functions.md",
-    "5 -.md",
     "Repaso/Parcial",
     "Repaso/repaso_fin",
     "Repaso/Parcial/REPASO MID.md",
-    "Repaso/Parcial/3 - minimizacion de variables diferenciables.md",
     "Repaso/Parcial/2 - Repaso de calculo diferencial.md",
     "Repaso/Parcial/1 - Algebra lineal numerico.md",
     "2 - Numerical Linear Alegra review.md",
