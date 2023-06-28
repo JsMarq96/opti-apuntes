@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repaso/repaso_fin/8 - Optimizacion estocastica.md",
+                "file": "Repaso/repaso_fin/7 - Dualitey based methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,8 +174,8 @@
   },
   "active": "752cb3f0f8ae2fc1",
   "lastOpenFiles": [
-    "Repaso/repaso_fin/8 - Optimizacion estocastica.md",
     "Repaso/repaso_fin/7 - Dualitey based methods.md",
+    "Repaso/repaso_fin/8 - Optimizacion estocastica.md",
     "Repaso/repaso_fin/Repaso.md",
     "Repaso/repaso_fin/6 - Convex optimization.md",
     "Repaso/Parcial/4- Gradient descnet & conjugate graident.md",

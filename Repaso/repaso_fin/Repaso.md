@@ -73,7 +73,7 @@ Eso equivala a si fuese diferenciable que le gradiente da 0 en eses punto
 para resolverlo, la idea es que lo pasamos a un porblema de optimizacion generico
 ### Multiplicador lagrangiago
 
-La teoria del mutplicaod lagrangiano dice, que dado un extremo local en una funcion, el gradiente de la funcion en ese punto, puede ser expreesado como una convinacion lineal de gradientes de las constraints.
+La teoria del mutplicaod lagrangiano dice, que dado un extremo local en una funcion, el gradiente de la funcion en ese punto, puede ser expreesado como una convinacion lineal de gradientes de las constraints. Es decir, si tenemos una funcion y vemos los contornos, el maximo sera el punto en el que el contorno y las constraints coinciden y los gradients son opuestos.
 
 $$L(x,\lambda, \nu) = f(x) - \lambda g(x) - \nu r(x)$$
 en el que g es una constrian de inqcualidad y nu una constrain de equalidad
@@ -175,6 +175,7 @@ En este caso, podemos usar el Duality gap para elegir si terminamos antes las op
 
 $$\min_x \max_\xi H(x,\xi) - \max_\xi \min_x H(x,\xi) \geq 0$$
 $$f(x^k) - g_D(\xi^k) \geq 0 $$
+Este metodo solo se puede usar si es convexo en x (es linear y quadratico en )
 
 
 # Supervised learning
